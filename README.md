@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Create React Express App
 
 ## About This Boilerplate
@@ -40,3 +41,6 @@ yarn build
 3. Push to Heroku
 
 If all previous steps were followed correctly, your application should be deployed to Heroku!
+=======
+# ReactRouter
+>>>>>>> 6637a177e428bad6d0cd54e131191c2ad91946a8
